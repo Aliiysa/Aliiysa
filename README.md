@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
+I am a Bioengineer who interested in Deep Learning.
 <!--
 **Aliiysa/Aliiysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
