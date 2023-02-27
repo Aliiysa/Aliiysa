@@ -1,7 +1,8 @@
 ### Hello there 👋
 
 I am a Bioengineer who interested in Data Science and Deep Learning.
-🌱 Keep on learning. 👯
+
+🌱 Get up stand up don't give up the fight. 🧬
 <!--
 **Aliiysa/Aliiysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
